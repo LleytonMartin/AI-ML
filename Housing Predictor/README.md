@@ -7,6 +7,7 @@ Below is some data visualization done
 
 
 **Visualization of Location**
+
 ![image](https://github.com/LleytonMartin/AI-ML/assets/100320409/4e7cd28b-7721-49c6-bd14-6344352b463e)
 
 
