@@ -1,6 +1,24 @@
 Created a Linear Regression and Random Forest prediction model for the cost of houses based on their features
 
-Below is some data visualization done
+List of features
+- longitude
+- latitude
+- housing_median_age
+- total_rooms
+- total_bedrooms
+- population
+- households
+- median_income
+- median_house_value
+- ocean_proximity
+
+The purpose of this project was to learn data visualization skills as well as data engineering skills to improve prediction accuracy.
+
+
+
+**Data Visualization Shown Below**
+
+
 
 **Description of Data**
 ![image](https://github.com/LleytonMartin/AI-ML/assets/100320409/35cc5f8d-ad25-4b92-8ffd-1c7be8220675)
